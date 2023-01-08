@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-younis88&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-younis88" /> </p>
 
-- 🔭 I’m currently working on **Cashvan Application**
+- 🔭 I’m keep learning now to **become better**
 
 - 👨‍💻 All of my projects are available at [http://212.24.108.54/Younis-Portfolio/](http://212.24.108.54/Younis-Portfolio/)
 
